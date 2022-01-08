@@ -1,4 +1,4 @@
-# Receipt enhancement 📑
+# Enhancement of the observation of a receipt 📑
 Modification of the observation of a receipt using computer vision and geometric operations that include:
 - Adaptative thresholding
 - Contouring and filtering
